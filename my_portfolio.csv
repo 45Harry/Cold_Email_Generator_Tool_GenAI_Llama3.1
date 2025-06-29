@@ -1,21 +1,18 @@
-"Techstack","Links"
-"React, Node.js, MongoDB","https://example.com/react-portfolio"
-"Angular,.NET, SQL Server","https://example.com/angular-portfolio"
-"Vue.js, Ruby on Rails, PostgreSQL","https://example.com/vue-portfolio"
-"Python, Django, MySQL","https://example.com/python-portfolio"
-"Java, Spring Boot, Oracle","https://example.com/java-portfolio"
-"Flutter, Firebase, GraphQL","https://example.com/flutter-portfolio"
-"WordPress, PHP, MySQL","https://example.com/wordpress-portfolio"
-"Magento, PHP, MySQL","https://example.com/magento-portfolio"
-"React Native, Node.js, MongoDB","https://example.com/react-native-portfolio"
-"iOS, Swift, Core Data","https://example.com/ios-portfolio"
-"Android, Java, Room Persistence","https://example.com/android-portfolio"
-"Kotlin, Android, Firebase","https://example.com/kotlin-android-portfolio"
-"Android TV, Kotlin, Android NDK","https://example.com/android-tv-portfolio"
-"iOS, Swift, ARKit","https://example.com/ios-ar-portfolio"
-"Cross-platform, Xamarin, Azure","https://example.com/xamarin-portfolio"
-"Backend, Kotlin, Spring Boot","https://example.com/kotlin-backend-portfolio"
-"Frontend, TypeScript, Angular","https://example.com/typescript-frontend-portfolio"
-"Full-stack, JavaScript, Express.js","https://example.com/full-stack-js-portfolio"
-"Machine Learning, Python, TensorFlow","https://example.com/ml-python-portfolio"
-"DevOps, Jenkins, Docker","https://example.com/devops-portfolio"
+﻿Techstack,Links
+"Python, Streamlit, FAISS, Groq Llama 3, Jupyter Notebook",https://github.com/45Harry/Equity-Research-Tool
+"Dialogflow, NLP, GCP, HTML, JavaScript",https://github.com/45Harry/FooDBOT_END_TO_END_IN_DIALOGFLOW_NLP
+"Python, Pandas, Matplotlib, BeautifulSoup, Requests, Web Scraping",https://github.com/45Harry/End_to_End_Cricket_Data_Analysis
+"Python, Pandas, Scikit-learn, Cosine Similarity, Streamlit",https://github.com/45Harry/Movie-Recommendation-System
+"Python, TensorFlow/Keras, CNN, Image Processing, React, Material UI, REST API",https://github.com/45Harry/Plant-Disease-Classification
+"Python, Pandas, Seaborn, Matplotlib, Spotify API",https://github.com/45Harry/Spotify-Data-Analysis
+"Python, LSTM, TextBlob, Numpy, Pandas, yfinance, Keras",https://github.com/45Harry/Stocks-Forecasting-and-Sentiment-Analysis
+"Python, Pandas, Seaborn, Matplotlib",https://github.com/45Harry/Student-Performance-Analysis
+"Python, Tweepy, TextBlob, WordCloud, Seaborn",https://github.com/45Harry/Twitter-Sentiment-Analysis
+"Python, YouTube Data API, Pandas, Seaborn, Matplotlib",https://github.com/45Harry/Youtube-Data-Analysis
+"Python, Pandas, Random Forest, Streamlit",https://github.com/45Harry/IPL-Winner-Predictor
+"Python, Scikit-learn, SVM, Logistic Regression, KNN",https://github.com/45Harry/Breast-Cancer-Prediction
+"Python, Streamlit, Regex, Pandas, Data Visualization",https://github.com/45Harry/WhatsApp-Chat-Analyzer
+"Python, Pandas, Matplotlib, Seaborn",https://github.com/45Harry/Uber-Ride-Data-Analysis
+"Python, Pandas, Geopandas, Folium, Seaborn",https://github.com/45Harry/Earthquake-Data-Analysis
+"Python, Pandas, Seaborn, Matplotlib, Exploratory Data Analysis",https://github.com/45Harry/Netflix-Data-Exploration
+

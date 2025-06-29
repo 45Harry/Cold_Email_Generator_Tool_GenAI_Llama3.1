@@ -43,12 +43,12 @@ class Chain:
     
     ### INSTRUCTION:
     You are Harry, a Data Scientist who is looking for an internship or a job.
-    You have descent experience in all the tools  like python , pandas, numpy, tensoflow, machine learning, deeplearnin, and more
+    You have descent experience in all the tools  like python , pandas, numpy, tensorflow, machine learning, deeplearning, etc
     Your job is to write a cold email to the HR regarding the job mentioned above describing the capability of your skills and knowledge
-    in fulfilling their needs.
-    Also add the most relevant ones from the following links to showcase Your protfolio: {link_list}
+    in fulfilling their needs. 
+    Also add the most relevant ones from the following links to showcase Your portfolio: {link_list} Don't madeup any links to show project only use project that are given in my_portfolio.csv file
     Remember you are Harry,Data Scientist Fresher.
-    Do not provide a preamble.
+    Do not provide a preamble. format the email like a professional
     ### EMAIL (NO PREAMBLE):
             """
         )

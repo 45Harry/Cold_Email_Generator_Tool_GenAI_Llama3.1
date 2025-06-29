@@ -1,21 +1,16 @@
-"Techstack","Links"
-"React, Node.js, MongoDB","https://example.com/react-portfolio"
-"Angular,.NET, SQL Server","https://example.com/angular-portfolio"
-"Vue.js, Ruby on Rails, PostgreSQL","https://example.com/vue-portfolio"
-"Python, Django, MySQL","https://example.com/python-portfolio"
-"Java, Spring Boot, Oracle","https://example.com/java-portfolio"
-"Flutter, Firebase, GraphQL","https://example.com/flutter-portfolio"
-"WordPress, PHP, MySQL","https://example.com/wordpress-portfolio"
-"Magento, PHP, MySQL","https://example.com/magento-portfolio"
-"React Native, Node.js, MongoDB","https://example.com/react-native-portfolio"
-"iOS, Swift, Core Data","https://example.com/ios-portfolio"
-"Android, Java, Room Persistence","https://example.com/android-portfolio"
-"Kotlin, Android, Firebase","https://example.com/kotlin-android-portfolio"
-"Android TV, Kotlin, Android NDK","https://example.com/android-tv-portfolio"
-"iOS, Swift, ARKit","https://example.com/ios-ar-portfolio"
-"Cross-platform, Xamarin, Azure","https://example.com/xamarin-portfolio"
-"Backend, Kotlin, Spring Boot","https://example.com/kotlin-backend-portfolio"
-"Frontend, TypeScript, Angular","https://example.com/typescript-frontend-portfolio"
-"Full-stack, JavaScript, Express.js","https://example.com/full-stack-js-portfolio"
-"Machine Learning, Python, TensorFlow","https://example.com/ml-python-portfolio"
-"DevOps, Jenkins, Docker","https://example.com/devops-portfolio"
+﻿Techstack,Links
+"Python,Pandas,Numpy,Seaborn,Matplotlib,Scikit-Learn,NLTK,wordcloud,Xgboost",https://github.com/45Harry/Email_Spam_Classification_Project
+"Python, Streamlit, Sql,database,FastAPI,Dialogflow,",https://github.com/45Harry/FooDBOT_END_TO_END_IN_DIALOGFLOW_NLP
+"Python,Tensorflow,Pandas,Matplotlib,Scikit-Learn,Seaborn",https://github.com/45Harry/Customer_Churn_predictor_using_ANN
+"Python,OpenCV,File Handling",https://github.com/45Harry/Face_Recognition_Attendance_project
+"Python, TensorFlowt,Rest API,Deep Learning,Keras,FastAPI,FlaskAPI,",https://github.com/45Harry/Potato_Disease_Classification
+"MLFlow,MLops,Python,Streamlit",https://github.com/45Harry/MLOps_End_to_End_Customer_satisfaction_project
+"AI,Llama,VectorDataBase, LLM, Chromadb, GenAI, Python,Streamlit",https://github.com/45Harry/Cold_Email_Generator_Tool_GenAI_Llama3.1
+"Regex,Scikit-Learn,FastAPI,LLM,DeepSeek,Bert,Python",https://github.com/45Harry/Log_Classification_GenAI_LLM_NLP_DeepSeek_R1_
+"Groq,LLM,GenAI,Streamlit,Python,Notebook",https://github.com/45Harry/Equity-Research-Tool
+"Machine Learning,Numpy,Pandas,Matplotlib,Scikit-Learn,Jupyter",https://github.com/45Harry/Real_state_price_predicter
+"Jupyter,Python,OpenCV",https://github.com/45Harry/Celebrity_face_classifier
+"Python, Scikit-learn,Machine Learning,scikit-Learn,numpy, Pandas",https://github.com/45Harry/Streamlit_App_Cancer
+"Tensorflow, Keras, CNN,Numpy,Pandas,Scikit-Learn",https://github.com/45Harry/Cat_or_Dog_classification_using_CNN
+"UV,LangChain,LangSmith,LangGraph,Python,LLM,GENAI",https://github.com/45Harry/langgraph-tutorials
+
