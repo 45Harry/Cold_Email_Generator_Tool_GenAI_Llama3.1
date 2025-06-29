@@ -29,7 +29,7 @@ An intelligent AI-powered tool that automatically generates personalized cold em
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/45Harry/Cold_Email_Generator_Tool_GenAI_Llama3.1.git
    cd Cold_Email_Generator_Tool_GenAI_Llama3.1
    ```
 
